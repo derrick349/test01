@@ -1,0 +1,57 @@
+/**
+ * Filename: style.php
+ * Date: 2014-March-14
+ * Version: 1.0
+ * Author: Derrick Blackwell
+ * Info: This file sets some basic designs for the mobile web application
+ **/
+ 
+body 
+{ 
+  color: #FFFFFF;
+  background: #A1AB8A;
+}
+
+.content-body
+{
+  color: #FFFFFF;
+  background: #A1AB8A;  
+}
+
+.ui-page
+{
+  color: #FFFFFF;
+  background: #A1AB8A;  
+}
+
+.ui-link
+{
+    text-decoration: none; 
+    color: #179146 !important;    
+}
+
+.ui-link:visited
+{
+    text-decoration: none; 
+    color: #179146 !important;    
+}
+
+.top-logo
+{
+    text-align: center;
+}
+
+.centered-text
+{
+    text-align: center;
+}
+
+.justified-text
+{
+    text-align: justify;
+}
+
+.right-text
+{
+    text-align: right;
+}
